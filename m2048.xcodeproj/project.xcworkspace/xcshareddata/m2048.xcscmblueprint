@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6C29944B3854DE4B2B51F0E5621256D4BB50671E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6C29944B3854DE4B2B51F0E5621256D4BB50671E" : 0,
+    "8B3FCA06773311E05FC662092CB756E83CD1F40F" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "40C1B12B-19A1-4BF1-9518-2BC735B4FB64",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6C29944B3854DE4B2B51F0E5621256D4BB50671E" : "iOS-Demo-Carthage\/",
+    "8B3FCA06773311E05FC662092CB756E83CD1F40F" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "m2048",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "m2048.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:amplitude\/iOS-Demo-Carthage.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6C29944B3854DE4B2B51F0E5621256D4BB50671E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:amplitude\/Client-SDK.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8B3FCA06773311E05FC662092CB756E83CD1F40F"
+    }
+  ]
+}

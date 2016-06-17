@@ -7,11 +7,14 @@
 //
 
 #import "M2AppDelegate.h"
+#import "AmplitudeFramework/Amplitude.h"
 
 @implementation M2AppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
+//    [Amplitude instance].trackingSessionEvents = YES;
+//    [[Amplitude instance] initializeApiKey:@"cd6312957e01361e6c876290f26d9104"];
   return YES;
 }
 
